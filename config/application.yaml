@@ -1,6 +1,0 @@
-message: default
-test:
-  value: bar
-  list:
-    - val1
-    - val2
