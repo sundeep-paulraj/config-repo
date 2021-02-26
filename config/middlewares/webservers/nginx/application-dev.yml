@@ -1,1 +1,1 @@
-webserver: httpd
+webserver: nginx-dev
