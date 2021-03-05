@@ -1,0 +1,1 @@
+### Configuration repository for storing the application configurations
