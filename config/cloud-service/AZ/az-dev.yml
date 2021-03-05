@@ -1,1 +1,2 @@
-cloud: azure-default
+env: az
+infra: az
