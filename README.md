@@ -1,2 +1,2 @@
 # config-repo
-Repo for my configuration
+Repo for storing my configuration
